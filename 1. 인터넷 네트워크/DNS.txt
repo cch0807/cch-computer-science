@@ -1,0 +1,24 @@
+IP 는 기억하기 어렵다!
+IP 는 변경될 수 있다!
+
+DNS
+도메인 네임 시스템(Domain Name System)
+
+전화번호부
+도메인 명을 IP 주소로 변환
+
+DNS 사용자
+1. 도메인 명 google.com
+2. 응답: 200.200.200.2
+3. 접속 200.200.200.2
+
+DNS 가 있으면
+IP의 2가지 문제를 해결할 수 있다!
+
+인터넷 네트워크 정리
+인터넷 통신
+IP(Internet Protocol)
+TCP, UDP
+PORT
+DNS
+

@@ -1,1 +1,1 @@
-http-web-network study
+Computer science deep dive
